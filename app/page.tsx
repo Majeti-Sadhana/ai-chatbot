@@ -7,10 +7,6 @@ export default function Home() {
         AI Chatbot
       </h1>
 
-      <p className="mb-10 text-zinc-400">
-        Modern AI assistant platform
-      </p>
-
       <div className="flex gap-4">
         <Link
           href="/sign-in"
